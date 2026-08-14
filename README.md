@@ -1,4 +1,4 @@
-# eavb_analog
+# eavb_analog (WIP)
 
 An industrial-grade Analog Front-End (AFE) conditioning, sensor scaling, and telemetry library designed for high-performance embedded systems, precision sensor arrays, and custom robotics.
 
